@@ -1,5 +1,9 @@
+<<<<<<< .merge_file_a10400
 <<<<<<< HEAD
 test file add new  bb
 =======
 test file add new  s
 >>>>>>> 49a780a566c88a14219ff08b7ae3739130fff6e8
+=======
+test file add new  s s
+>>>>>>> .merge_file_a11772
