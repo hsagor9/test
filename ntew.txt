@@ -1,5 +1,2 @@
-<<<<<<< .merge_file_a00940
 ami likhteci 
-=======
-ssa
->>>>>>> .merge_file_a13604
+
